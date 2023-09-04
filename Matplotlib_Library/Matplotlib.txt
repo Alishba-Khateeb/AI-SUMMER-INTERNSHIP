@@ -1,0 +1,2 @@
+Firstly, we have imported different libraries named Numpy, Pandas, Matplotlib.
+Now we have used the arange() function in which we pass 2 arguments
